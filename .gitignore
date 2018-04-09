@@ -1,0 +1,6 @@
+# ignore the vs code workspace
+.vscode/
+FlaskApp_workspace.code-workspace
+
+# ignore virtual environment
+FlaskApp/venv/

@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "${workspaceFolder}\\FlaskApp\\venv\\Scripts\\python.exe"
+	}
+}

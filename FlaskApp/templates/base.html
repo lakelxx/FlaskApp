@@ -1,0 +1,14 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{title}} - Caleb & Zoe</title>
+    {% else %}
+    <title> Caleb & Zoe</title>
+    {% endif %}
+  </head>
+  <body>
+    <div><a href="/index">Home</a></div>
+    <hr>
+    {% block content %}{% endblock %}
+  </body>
+</html>

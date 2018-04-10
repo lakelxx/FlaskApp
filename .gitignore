@@ -3,7 +3,7 @@
 FlaskApp_workspace.code-workspace
 
 # ignore virtual environment
-FlaskApp/venv/
+venv/
 
 # ignore compiled files
 *.pyc
